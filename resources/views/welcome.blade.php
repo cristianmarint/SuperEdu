@@ -73,7 +73,7 @@
                 <div class="links">
                     <a href="{{ url('/admin/login') }}">Ingreso</a>
                     <a href="{{ url('/admin/register') }}">Registro</a>
-                    <a href="{{ url('/home') }}">Inicio</a>
+                    <a href="{{ url('/admin') }}">Inicio</a>
                     <a href="https://github.com/cristianmarint/Universidad/tree/master/Semestre%20VIII/Ingenieria%20Web%20y%20Servicios/Corte%201/SuperEdu">Repo</a>
                 </div>
             </div>
